@@ -1,7 +1,7 @@
 <?php
 $servername="localhost";
-$username="username";
-$password="password";
+$username="temi";
+$password="temi";
 $dbname="todolists";
 
 // Creating connection
